@@ -171,6 +171,7 @@ handwrite --debug-directory ./debug/ --sheet-version 5.0   --license ofl --desig
 handwrite --debug-directory ./debug/ --sheet-version 5.0   --license ofl --designer "soweli Pulejamotelu" --family "sitelen nasa pona"               --filename "sitelen-nasa-pona-tan-soweli-Pulejamotelu" sitelen-nasa-pona-tan-soweli-Pulejamotelu.png . --other-words "_ jami _ soto teje wa wekama kiki puwa isipin kokosila _ apeja ka pake powe uka kelo kewe sunta omekapo mani2 sewi2 tomo2 misikeke2"
 handwrite --debug-directory ./debug/ --sheet-version 5.0   --license ofl --designer "soweli Pulejamotelu" --family "sitelen nasa sike"               --filename "sitelen-nasa-sike-tan-soweli-Pulejamotelu" sitelen-nasa-sike-tan-soweli-Pulejamotelu.png . --other-words "_ A1 _ LI1 LIKA LILI1 LU LUPA1 MI1 MUKU MUTI _ TIKI TIKU TILA TILU TIMI TIPI TITI TU1 TUKI TULA TULU ULI UPI"
 handwrite --debug-directory ./debug/ --sheet-version 5.0   --license cc0 --designer "eliki Pase"         --family "linja pi kasi tu"                --filename "linja-pi-kasi-tu-tan-eliki-pase" linja-pi-kasi-tu-tan-eliki-pase.png ./
+handwrite --debug-directory ./debug/ --sheet-version 5.0   --license ofl --designer "jan kala nanpa Matelona" --family "sitelen leko pi ma telo nanpa"   sitelen-leko-pi-ma-telo-nanpa.png ./ --pixel
 
 rem For PowerShell, prepend this: cd C:/Users/Kelly/Documents/GitHub/wasokeli.github.io/sp-font-maker/
 rem In Sublime Text, Edit > Sort Lines (F9) to alphabetize
