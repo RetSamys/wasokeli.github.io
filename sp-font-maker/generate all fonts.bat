@@ -172,6 +172,7 @@ handwrite --debug-directory ./debug/ --sheet-version 5.0   --license ofl --desig
 handwrite --debug-directory ./debug/ --sheet-version 5.0   --license ofl --designer "soweli Pulejamotelu" --family "sitelen nasa sike"               --filename "sitelen-nasa-sike-tan-soweli-Pulejamotelu" sitelen-nasa-sike-tan-soweli-Pulejamotelu.png . --other-words "_ A1 _ LI1 LIKA LILI1 LU LUPA1 MI1 MUKU MUTI _ TIKI TIKU TILA TILU TIMI TIPI TITI TU1 TUKI TULA TULU ULI UPI"
 handwrite --debug-directory ./debug/ --sheet-version 5.0   --license cc0 --designer "eliki Pase"         --family "linja pi kasi tu"                --filename "linja-pi-kasi-tu-tan-eliki-pase" linja-pi-kasi-tu-tan-eliki-pase.png ./
 handwrite --debug-directory ./debug/ --sheet-version 5.0   --license ofl --designer "jan kala nanpa Matelona" --family "sitelen leko pi ma telo nanpa"   sitelen-leko-pi-ma-telo-nanpa.png ./ --other-words "_ _ _ 1 0" --pixel
+handwrite --debug-directory ./debug/ --sheet-version 5.0                 --designer "a Enkejawanopo"     --family "linja Enkejawanopo"              linjaenkejawanopo.png ./ --other-words "_ rel.sewi _ melome mijomi NKL104 u.ni l.ni r.ni u.l.ni d.l.ni _ d.r.ni u.r.ni tokipona ku su omekapo penpo wuwojiti owe san lipamanka soto teje" --license "CC BY-NC-SA 4.0" --license-url "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
 
 rem For PowerShell, prepend this: cd C:/Users/Kelly/Documents/GitHub/wasokeli.github.io/sp-font-maker/
 rem In Sublime Text, Edit > Sort Lines (F9) to alphabetize
